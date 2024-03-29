@@ -14,3 +14,6 @@ conda activate mchatbot
 '''bash:
 pip install -r requirements.txt
 '''
+
+
+dimensions->embeding model from hugginface(all-MiniLM-L6-V2)
